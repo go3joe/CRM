@@ -363,4 +363,5 @@ public class Activity {
         this.editBy = editBy == null ? null : editBy.trim();
     }
     /* test merge conflict ,here is master branch*/
+    /* test merge conflict ,here is hot-fix branch*/
 }
