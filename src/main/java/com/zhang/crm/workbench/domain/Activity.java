@@ -363,4 +363,6 @@ public class Activity {
     public void setEditBy(String editBy) {
         this.editBy = editBy == null ? null : editBy.trim();
     }
+
+    /* hot-fix branch do some changes to show how to merge into master branch  */
 }
