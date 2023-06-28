@@ -362,5 +362,5 @@ public class Activity {
     public void setEditBy(String editBy) {
         this.editBy = editBy == null ? null : editBy.trim();
     }
-
+    /* test merge*/
 }
